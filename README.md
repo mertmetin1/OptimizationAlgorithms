@@ -1,6 +1,7 @@
 # Optimization Algorithms
 
 This repository contains implementations of various optimization algorithms commonly used in solving different types of problems. Each algorithm is described below along with its key components and operation.
+Metaheuristics are a flexible and powerful class of algorithms used to solve various optimization problems. These approaches are designed to find effective solutions in complex and often uncertain problem domains. Metaheuristics typically employ a guided search strategy to explore solutions in a search space and generally do not guarantee optimal solutions but aim to produce acceptable solutions.
 
 ## Backtracking Algorithm (BT)
 
